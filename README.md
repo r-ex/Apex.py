@@ -3,7 +3,9 @@
 
 An incomplete, proof-of-concept API wrapper for Apex Legends written in Python.
 
-Apex.py contains messy, incomplete code and is not intended for use. Think of it as a research knowledgebase or starting point.
+## Apex.py no longer functions due to changes in security measures on Origin's login pages. It is a simple fix, however i will not be updating this repository to reflect that change.
+
+This shouldn't be used as anything other than a reference point for writing your own system.
 
 ## Requirements
 
@@ -13,7 +15,7 @@ Apex.py contains messy, incomplete code and is not intended for use. Think of it
 
 ### PC
 
-Login to Origin using your Email and Password. Two-Factor Authentication is not supported due to login the method used.
+Login to Origin using your Email and Password. Two-Factor Authentication is not supported due to the login method used.
 
 Example usage
 ```py
